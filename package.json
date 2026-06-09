@@ -1,0 +1,11 @@
+{
+  "name": "tde2-devops-app",
+  "version": "1.0.0",
+  "description": "Projeto fictício para TDE2 — DevOps PUCPR",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
